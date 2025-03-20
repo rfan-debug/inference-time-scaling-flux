@@ -1,0 +1,7 @@
+torch>=2.5.1
+git+https://github.com/huggingface/diffusers.git@f424b1b0624b9fe3e6141e5c174afceaa7026a96
+git+https://github.com/huggingface/transformers.git@006d9249ec0270ff6c4d3840979d23fe94bdc763
+pydantic>=2
+openai==1.64.0
+Pillow
+requests
